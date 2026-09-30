@@ -43,23 +43,23 @@ export type SkillGroup = {
 // ── Basic info ───────────────────────────────────────────────
 export const site = {
   name: "Tyler Lam",
-  title: "Software Engineer", // TODO: your headline / role
+  title: "Highschool Student", // TODO: your headline / role
   url: "https://tylerlam.com",
   tagline:
-    "TODO: One sentence about what you build and what you care about as an engineer.",
-  location: "TODO: City, Country",
-  email: "you@example.com", // TODO: your public contact email
+    "Senior in highschool learning how to build things.",
+  location: "Saskatoon, Canada",
+  email: "tyler.l.jiafu@gmail.com", // TODO: your public contact email
   resumeUrl: "", // TODO: e.g. "/resume.pdf" (put the PDF in the /public folder). Leave "" to hide.
   socials: [
-    { label: "GitHub", href: "https://github.com/your-username" }, // TODO
-    { label: "LinkedIn", href: "https://www.linkedin.com/in/your-username" }, // TODO
+    { label: "GitHub", href: "https://github.com/tylerlamm" }, // TODO
+    { label: "LinkedIn", href: "https://www.linkedin.com/in/tyler-lam-b379a6322/" }, // TODO
   ] as Link[],
 };
 
 // ── About ────────────────────────────────────────────────────
 // Each string is one paragraph.
 export const about: string[] = [
-  "TODO: A short introduction — who you are professionally, what you're studying or working on, and the kinds of problems you like solving.",
+  "I'm a highschool student learning how to build software. I enjoy programming and building projects that solve real-world problems.",
   "TODO: A second paragraph on your strengths, the areas you focus on, and what kind of role or opportunities you're looking for.",
 ];
 
