@@ -1,2 +1,3 @@
-#Tyler's Porfolio
+# Tyler's Portfolio 
 my personal website
+
